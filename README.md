@@ -1,4 +1,4 @@
-# Quode Palette YT
+# Quode Palette YT 
 
 A lightweight Windows desktop app for downloading YouTube videos and audio.
 
